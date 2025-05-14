@@ -1,0 +1,16 @@
+body{
+  background-color: rgb(79, 79, 109);
+  color: white;
+  background-image: url('./assets/react.svg');
+  background-position: right bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+
+.header{
+  display: flex;
+  margin-left: 10px;
+  gap: 16px;
+}
